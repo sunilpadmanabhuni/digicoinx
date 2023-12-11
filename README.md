@@ -4,14 +4,13 @@
   ![GitHub stars](https://img.shields.io/github/stars/sunilpadmanabhuni/digicoinx?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/sunilpadmanabhuni/digicoinx?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sunilpadmanabhuni_?style=social)](https://twitter.com/intent/follow?screen_name=sunilpadmanabhuni_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/ux3o7jDhvOc?style=social)](https://youtu.be/ux3o7jDhvOc)
-
+  
   <br />
   <br />
 
-  <h2 align="center">digicoinx - Cryptocurrency Website</h2>
+  <h2 align="center">Digicoinx - Cryptocurrency Website</h2>
 
-  digicoinx is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Digicoinx is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://sunilpadmanabhuni.github.io/digicoinx/"><strong>➥ Live Demo</strong></a>
 
